@@ -4,6 +4,7 @@ import (
 	"fmt"
 )
 
+//func add
 func Add(a, b int) int {
 	return a + b
 }
